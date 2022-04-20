@@ -2,6 +2,7 @@
     "name": "decompile-theme",
     "displayName": "Decompile Theme",
     "description": "Decompile's VSCode Minimal Theme",
+    "icon": "icon.png",
     "version": "1.1.0",
     "publisher": "HumphreyDeGuzman",
     "repository": {

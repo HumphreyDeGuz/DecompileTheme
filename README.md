@@ -5,9 +5,9 @@ Just a simple VSCode theme I made :smile:
 
 ## Examples
 
-![](ex2.jpeg)
+![](screenshots/ex2.jpeg)
 
-![](ex0.jpeg)
+![](screenshots/ex0.jpeg)
 
-![](ex1.jpeg)
+![](screenshots/ex1.jpeg)
 

@@ -2,7 +2,7 @@
     "name": "decompile-theme",
     "displayName": "Decompile Theme",
     "description": "Decompile's VSCode Minimal Theme",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "publisher": "HumphreyDeGuzman",
     "repository": {
         "type": "git",
@@ -17,7 +17,8 @@
         "minimal",
         "simple",
         "primary colors",
-        "decompile"
+        "decompile",
+        "decompile theme"
     ],
     "categories": [
         "Themes"
